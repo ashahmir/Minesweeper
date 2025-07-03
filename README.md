@@ -4,12 +4,12 @@ A simple terminal-based implementation of the classic Minesweeper game using C++
 
 ## 🎮 Features
 
-- Random mine placement
-- Recursive reveal of adjacent safe plots
-- User-friendly grid display
-- Win and lose conditions
-- Input validation
-- Classic Minesweeper logic with numbers indicating nearby mines
+- Random mine placement.
+- Recursive reveal of adjacent safe plots.
+- User-friendly grid display.
+- Win and lose conditions.
+- Input validation.
+- Classic Minesweeper logic with numbers indicating nearby mines.
 
 ## 🧠 How It Works
 
